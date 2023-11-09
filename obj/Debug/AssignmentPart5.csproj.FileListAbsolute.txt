@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\bin\Debug\AssignmentPart5.exe.config
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\bin\Debug\AssignmentPart5.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\bin\Debug\AssignmentPart5.pdb
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\obj\Debug\AssignmentPart5.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\obj\Debug\AssignmentPart5.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\obj\Debug\AssignmentPart5.exe
+C:\Users\User\OneDrive\Desktop\Assigment\Assignment Day4\AssignmentPart5\AssignmentPart5\obj\Debug\AssignmentPart5.pdb
